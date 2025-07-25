@@ -1,0 +1,4 @@
+class 
+
+c_feijao = [6.0, 150, 200, 4, 400]
+c_feijao = {'arrd': 3, 'mudas': 100, 'insumos': 200, 'maoobra':4, 'energia': 400' }
